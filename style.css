@@ -1,0 +1,45 @@
+.nav-menu
+{
+   
+    
+    background-color: #7fb9ff;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 20pt;
+    border-radius: 20%;
+}
+.nav-menu div
+{
+    background-color: #195fb0;
+    margin-top: 10px;
+    float: left;
+    margin-left: 5px;
+    width: 150px;
+    border-radius: 30%;
+} 
+.nav-menu div a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.nav-menu div:hover
+{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: #830837 ;
+}
+.content-area-text
+{
+   
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    text-align: center;
+    color: #062a53;
+    background-color: #cad2db;
+}
+.tablo-td
+{
+    width: 400px;
+    text-align: center;
+}
